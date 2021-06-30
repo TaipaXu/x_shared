@@ -1,0 +1,21 @@
+name: x_shared
+description: A tool of Storing data.
+version: 1.0.0
+homepage: https://github.com/TaipaXu/x_shared
+repository: https://github.com/TaipaXu/x_shared
+issue_tracker: https://github.com/TaipaXu/x_shared/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
